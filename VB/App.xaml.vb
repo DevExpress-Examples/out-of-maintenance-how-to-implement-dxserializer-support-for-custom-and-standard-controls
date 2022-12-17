@@ -1,7 +1,8 @@
-﻿Imports System.Windows
+Imports System.Windows
 
 Namespace DXSample
-    Partial Public Class App
+
+    Public Partial Class App
         Inherits Application
 
         Public Sub New()
